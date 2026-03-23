@@ -1,5 +1,7 @@
 # Set-Card-Game
 
+A multithreaded Java implementation of the Set card game with synchronized player interactions and real-time concurrency.
+
 ## Overview
 
 This project implements the Set card game as a concurrent Java system.
@@ -32,7 +34,7 @@ The system is built around three main components:
 ## Technologies
 
 - Java
-- Multithreading
+- Multithreading (Java Threads)
 - Synchronization
 - Concurrent programming
 
