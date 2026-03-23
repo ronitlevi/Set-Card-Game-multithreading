@@ -52,7 +52,9 @@ The system is built around three main components:
 
 ## Contribution
 
-This project was developed collaboratively in a team of two.
+This project is a result of academic work completed as part of the Computer Science program at Ben-Gurion University of the Negev.
+
+It was developed collaboratively in a team of two.
 
 I actively participated in the design and implementation of the system, including the multithreading and synchronization logic.
 
@@ -119,11 +121,4 @@ Following is a diagram of the general flow of the program:
 <img width="439" alt="image" src="https://github.com/gilaa1/Set-Card-Game/assets/118897225/bfd99e01-c656-46c6-bb52-58edce39e6f5">
 
 
-## Copyright Notice
-
-© 2023/Fall by Ronit Levi and Gil Adi.
-
-This project is a result of academic work completed as part of the Computer Science program at Ben-Gurion University of the Negev.
-
-All rights reserved. Unauthorized use, distribution, or reproduction of this work without express written permission from the author is strictly prohibited.
 
